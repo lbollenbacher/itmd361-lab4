@@ -3,7 +3,9 @@ Create a valid html page with an HTML form on it that submits its data to the pr
 
 Requirements:
 
-Use the POST method for your form. Use the following controls in your form: 
+Use the POST method for your form. 
+
+Use the following controls in your form: 
 Single line text fields,
 Multi line text area, 
 Drop Down Menu, 
